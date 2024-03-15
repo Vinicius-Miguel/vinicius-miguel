@@ -2,4 +2,4 @@
 
 - 😄 Front end developer 
 - 🔭 I’m currently searching for a job
-- 💬 Ask me about #java #springboot #postgres #HTML #CSS #JavaScript
+- 💬 Ask me about #Js #Css #Html #React #Node #Php #Sql 
